@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+<Asset Type="WindowsPhoneGame2.Medals[]">
+<Item>
+    <name></name>
+    <silver></silver>
+    <gold></gold>
+</Item>
+</Asset>
+</XnaContent>

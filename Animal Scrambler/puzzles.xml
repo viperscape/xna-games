@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+<Asset Type="WindowsPhoneGame2.Puzzle[]">
+<Item>
+    <website>http://www.flickr.com/photos/davedehetre/4246331273/</website>
+    <artist>David DeHetre</artist>
+    <texture>ducks/stuff_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/pennuja/5619408661/</website>
+    <artist>Jim Pennuci</artist>
+    <texture>ducks/cute_ducks</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/justycinmd/5748054859/</website>
+    <artist>justycinmd</artist>
+    <texture>ducks/real_ducks</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/bbmexplorer/4316213005/</website>
+    <artist>Rob (BBM Explorer)</artist>
+    <texture>ducks/beau_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/mape_s/333863547/</website>
+    <artist>Marieke IJsendoorn-Kuijpers</artist>
+    <texture>ducks/pretty_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/wwarby/2499834718/</website>
+    <artist>William Warby</artist>
+    <texture>ducks/duck_head</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/aidanmorgan/4204877203/</website>
+    <artist>John Morgan</artist>
+    <texture>ducks/ducks_in_row</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/alancleaver/2378525120/</website>
+    <artist>Alan Cleaver</artist>
+    <texture>ducks/rubber_ducks_in_line</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/qmnonic/2256637212/</website>
+    <artist>Matt MacGillvray</artist>
+    <texture>ducks/ice_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/spool32/158300831/</website>
+    <artist>Will Clayton</artist>
+    <texture>ducks/blue_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/vinothchandar/5623891746/</website>
+    <artist>Vinoth Chandar</artist>
+    <texture>ducks/three_real_ducks</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/pheanixphotos/5670959108/</website>
+    <artist>Keith</artist>
+    <texture>ducks/duck_flight</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/tonythemisfit/3172548932/</website>
+    <artist>Tony Fischer</artist>
+    <texture>ducks/duck_clean</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/claudiogennari/3241837601/</website>
+    <artist>Claudio Gennari</artist>
+    <texture>ducks/water_duck</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/paalia/3535963820/</website>
+    <artist>Paul Stocker</artist>
+    <texture>ducks/duckie</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/rhysasplundh/5426944856/</website>
+    <artist>Rhys Asplundh</artist>
+    <texture>hawks/hawk_eat</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/oldrebel/5472619522/</website>
+    <artist>Donald Lee Pardue</artist>
+    <texture>hawks/hawk_stare</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/davidgsteadman/4697251206/</website>
+    <artist>davidgsteadman</artist>
+    <texture>hawks/hawk_flight</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/angel_malachite/4109906871/</website>
+    <artist>Joshua Barnett</artist>
+    <texture>hawks/hawk_drip</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/walkadog/4466244414/</website>
+    <artist>Beverly and Pack</artist>
+    <texture>hawks/hawk_beaut</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/brisbanefalling/4702684340/</website>
+    <artist>Brisbane Falling</artist>
+    <texture>hawks/owl_boo</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/squeezyboy/154171735/</website>
+    <artist>Squeezyboy</artist>
+    <texture>hawks/owl_cloak</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hisgett/4451326330/</website>
+    <artist>Tony Hisgett</artist>
+    <texture>hawks/hawk_screech</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/smudge9000/2487013470/</website>
+    <artist>Smudge 9000</artist>
+    <texture>hawks/hawk_white</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/nostri-imago/2855059214/</website>
+    <artist>Cliff</artist>
+    <texture>hawks/secretary</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hisgett/5934240272/</website>
+    <artist>Tony Hisgett</artist>
+    <texture>hawks/wood_owl</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hisgett/6022353153/</website>
+    <artist>Tony Hisgett</artist>
+    <texture>hawks/secretary2</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/darrelbirkett/6462169331/</website>
+    <artist>Darrel Birkett</artist>
+    <texture>hawks/owl_profile</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/darrelbirkett/6462160451/</website>
+    <artist>Darrel Birkett</artist>
+    <texture>hawks/hawk_straight</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hisgett/5634922703/</website>
+    <artist>Tony Hisgett</artist>
+    <texture>hawks/black_kite</texture>
+</Item>
+<Item>
+    <website>http://en.wikipedia.org/wiki/File:Coyote_by_Rebecca_Richardson.jpg</website>
+    <artist>Rebecca Richardson</artist>
+    <texture>wolves/coyote_beaut</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/cryptowolf/2703402679/</website>
+    <artist>Crypto Wolf</artist>
+    <texture>wolves/wolf_cute</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwsmidwest/6545955265/</website>
+    <artist>USFWSmidwest</artist>
+    <texture>wolves/wolf_stoic</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/tryburn/3643244757/</website>
+    <artist>Todd Ryburn</artist>
+    <texture>wolves/wolf_lookback</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwsmidwest/6545954621/</website>
+    <artist>USFWSmidwest</artist>
+    <texture>wolves/wolf_snow</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwspacific/4907620323/</website>
+    <artist>USFWS Pacific</artist>
+    <texture>wolves/wolf_red</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/kathycsus/406508428/</website>
+    <artist>Kathleen Franklin</artist>
+    <texture>wolves/black_snow</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/chrissy575/3673548403/in/photostream/</website>
+    <artist>Christine Zenino</artist>
+    <texture>wolves/baby_wolf</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/francapicc/744889925/</website>
+    <artist>jespahjoy</artist>
+    <texture>wolves/wild_dog_sit</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/danramarch/5213912820/</website>
+    <artist>Daniel Ramirez</artist>
+    <texture>wolves/wild_dog_sleep</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/harlequeen/5751742737/</website>
+    <artist>Neil McIntosh</artist>
+    <texture>wolves/coyote_lookup</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hatchibombotar/4475592647/</website>
+    <artist>Steve and Shanon Lawson</artist>
+    <texture>wolves/coyote_snow</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/caninest/4394675343/</website>
+    <artist>Caninest</artist>
+    <texture>wolves/wolf_lounge</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/dobak/119671565/</website>
+    <artist>Darek Bakken</artist>
+    <texture>wolves/wolf_play</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwsmidwest/6545954933/</website>
+    <artist>USFWSmidwest</artist>
+    <texture>wolves/wolf_soft</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/smudge9000/457797855/</website>
+    <artist>Smudge 9000</artist>
+    <texture>africa/lion</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/53344659@N05/4978430811/</website>
+    <artist>sheilapic76</artist>
+    <texture>africa/girraffe</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/chacon/206677271/</website>
+    <artist>Scott Chacon</artist>
+    <texture>africa/girraffe2</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/davedehetre/4831877261/</website>
+    <artist>David DeHetre</artist>
+    <texture>africa/zebras</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/-wichid/4737544435/</website>
+    <artist>Richard Ashurst</artist>
+    <texture>africa/gorilla</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/jnissa/1489030032/</website>
+    <artist>Jocelyn Saurini</artist>
+    <texture>africa/rhino</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/wwarby/4915192281/</website>
+    <artist>William Warby</artist>
+    <texture>africa/meer</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/wwarby/4915793804/</website>
+    <artist>William Warby</artist>
+    <texture>africa/ostrich</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/jamespreston/4243569265/</website>
+    <artist>James Preston</artist>
+    <texture>africa/ostrich2</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/jurvetson/6002532662/</website>
+    <artist>Steve Jurvetson</artist>
+    <texture>africa/hyenas</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/wwarby/4915772994/</website>
+    <artist>William Warby</artist>
+    <texture>africa/hippo</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/8363028@N08/3791299707/</website>
+    <artist>DeusXFlorida</artist>
+    <texture>africa/antelope</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/crschmidt/2936277632/</website>
+    <artist>Christopher Schmidt</artist>
+    <texture>africa/elephant</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/http2007/1149137981/</website>
+    <artist>Thierry</artist>
+    <texture>africa/elephant2</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/mdpettitt/2680430499/</website>
+    <artist>Martin Pettitt</artist>
+    <texture>africa/cheetah</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/briangratwicke/6182461448/</website>
+    <artist>Brian Gratwicke</artist>
+    <texture>ocean/beluga</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwspacific/4967557703/</website>
+    <artist>U.S. Fish and Wildlife Service</artist>
+    <texture>ocean/sharks</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/laszlo-photo/2058115978/</website>
+    <artist>Laszlo Ilyes</artist>
+    <texture>ocean/starfish</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/themarque/2884079538/</website>
+    <artist>Mark Walz</artist>
+    <texture>ocean/bluestar</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/kkendall/4040685669/</website>
+    <artist>K. Kendall</artist>
+    <texture>ocean/nautilus</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/usfwssoutheast/6215133142/</website>
+    <artist>U.S. Fish and Wildlife Service Southeast</artist>
+    <texture>ocean/turtle</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/pldms/3016990059/</website>
+    <artist>shellac</artist>
+    <texture>ocean/seahorse</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/pldms/3016988453/in/photostream/</website>
+    <artist>shellac</artist>
+    <texture>ocean/jellyfish</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/arcticpuppy/2896923413/</website>
+    <artist>Chris Willis</artist>
+    <texture>ocean/lionfish</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/robertpaulyoung/2678181928/</website>
+    <artist>Robert Young</artist>
+    <texture>ocean/clown</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/steve_childs/2652394094/</website>
+    <artist>Steve Childs</artist>
+    <texture>ocean/frogfish</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/steelmore/98391847/</website>
+    <artist>Ste Elmore</artist>
+    <texture>ocean/dolphin</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/42507736@N02/5604530336/</website>
+    <artist>Steve Dunleavy</artist>
+    <texture>ocean/mantaray</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/asw909/6029908269/</website>
+    <artist>adam</artist>
+    <texture>ocean/tigershark</texture>
+</Item>
+<Item>
+    <website>http://www.flickr.com/photos/hershman/442017520/</website>
+    <artist>Dan Hershman</artist>
+    <texture>ocean/brittle</texture>
+</Item>
+</Asset>
+</XnaContent>

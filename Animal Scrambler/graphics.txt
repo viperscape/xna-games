@@ -1,0 +1,10 @@
+website,artist,texture
+http://openclipart.org/detail/8772/gold-medallion-by-momoko,Momoko,gold_medal
+http://openclipart.org/detail/8773/silver-medallion-by-momoko,Momoko,silver_medal
+http://openclipart.org/detail/27398/universal-information-symbol-by-missiridia,Sarah A. Morrigan,info
+http://openclipart.org/detail/166735/replay-sign-by-pydubreucq,Pierre-Yves Dubreucq,rewind
+http://openclipart.org/detail/159469/web-search-grayscale-by-sibskull,Andrey Cherepanov,websearch
+http://openclipart.org/detail/159469/web-search-grayscale-by-sibskull,Andrey Cherepanov,search
+http://openclipart.org/detail/62725/35mm-camera-film--by-vwanweb,vwanweb,film_roll
+http://openclipart.org/detail/8589/fireworks-by-gerald_g-8589,Gerald_G,fireworks
+http://openclipart.org/detail/36667/tango-image-loading-by-warszawianka,warszawianka,loading

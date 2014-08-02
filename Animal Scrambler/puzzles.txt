@@ -1,0 +1,76 @@
+website,artist,texture
+http://www.flickr.com/photos/davedehetre/4246331273/,David DeHetre,ducks/stuff_duck
+http://www.flickr.com/photos/pennuja/5619408661/,Jim Pennuci,ducks/cute_ducks
+http://www.flickr.com/photos/justycinmd/5748054859/,justycinmd,ducks/real_ducks
+http://www.flickr.com/photos/bbmexplorer/4316213005/,Rob (BBM Explorer),ducks/beau_duck
+http://www.flickr.com/photos/mape_s/333863547/,Marieke IJsendoorn-Kuijpers,ducks/pretty_duck
+http://www.flickr.com/photos/wwarby/2499834718/,William Warby,ducks/duck_head
+http://www.flickr.com/photos/aidanmorgan/4204877203/,John Morgan,ducks/ducks_in_row
+http://www.flickr.com/photos/alancleaver/2378525120/,Alan Cleaver,ducks/rubber_ducks_in_line
+http://www.flickr.com/photos/qmnonic/2256637212/,Matt MacGillvray,ducks/ice_duck
+http://www.flickr.com/photos/spool32/158300831/,Will Clayton,ducks/blue_duck
+http://www.flickr.com/photos/vinothchandar/5623891746/,Vinoth Chandar,ducks/three_real_ducks
+http://www.flickr.com/photos/pheanixphotos/5670959108/,Keith,ducks/duck_flight
+http://www.flickr.com/photos/tonythemisfit/3172548932/,Tony Fischer,ducks/duck_clean
+http://www.flickr.com/photos/claudiogennari/3241837601/,Claudio Gennari,ducks/water_duck
+http://www.flickr.com/photos/paalia/3535963820/,Paul Stocker,ducks/duckie
+http://www.flickr.com/photos/rhysasplundh/5426944856/,Rhys Asplundh,hawks/hawk_eat
+http://www.flickr.com/photos/oldrebel/5472619522/,Donald Lee Pardue,hawks/hawk_stare
+http://www.flickr.com/photos/davidgsteadman/4697251206/,davidgsteadman,hawks/hawk_flight
+http://www.flickr.com/photos/angel_malachite/4109906871/,Joshua Barnett,hawks/hawk_drip
+http://www.flickr.com/photos/walkadog/4466244414/,Beverly and Pack,hawks/hawk_beaut
+http://www.flickr.com/photos/brisbanefalling/4702684340/,Brisbane Falling,hawks/owl_boo
+http://www.flickr.com/photos/squeezyboy/154171735/,Squeezyboy,hawks/owl_cloak
+http://www.flickr.com/photos/hisgett/4451326330/,Tony Hisgett,hawks/hawk_screech
+http://www.flickr.com/photos/smudge9000/2487013470/,Smudge 9000,hawks/hawk_white
+http://www.flickr.com/photos/nostri-imago/2855059214/,Cliff,hawks/secretary
+http://www.flickr.com/photos/hisgett/5934240272/,Tony Hisgett,hawks/wood_owl
+http://www.flickr.com/photos/hisgett/6022353153/,Tony Hisgett,hawks/secretary2
+http://www.flickr.com/photos/darrelbirkett/6462169331/,Darrel Birkett,hawks/owl_profile
+http://www.flickr.com/photos/darrelbirkett/6462160451/,Darrel Birkett,hawks/hawk_straight
+http://www.flickr.com/photos/hisgett/5634922703/,Tony Hisgett,hawks/black_kite
+http://en.wikipedia.org/wiki/File:Coyote_by_Rebecca_Richardson.jpg,Rebecca Richardson,wolves/coyote_beaut
+http://www.flickr.com/photos/cryptowolf/2703402679/,Crypto Wolf,wolves/wolf_cute
+http://www.flickr.com/photos/usfwsmidwest/6545955265/,USFWSmidwest,wolves/wolf_stoic
+http://www.flickr.com/photos/tryburn/3643244757/,Todd Ryburn,wolves/wolf_lookback
+http://www.flickr.com/photos/usfwsmidwest/6545954621/,USFWSmidwest,wolves/wolf_snow
+http://www.flickr.com/photos/usfwspacific/4907620323/,USFWS Pacific,wolves/wolf_red
+http://www.flickr.com/photos/kathycsus/406508428/,Kathleen Franklin,wolves/black_snow
+http://www.flickr.com/photos/chrissy575/3673548403/in/photostream/,Christine Zenino,wolves/baby_wolf
+http://www.flickr.com/photos/francapicc/744889925/,jespahjoy,wolves/wild_dog_sit
+http://www.flickr.com/photos/danramarch/5213912820/,Daniel Ramirez,wolves/wild_dog_sleep
+http://www.flickr.com/photos/harlequeen/5751742737/,Neil McIntosh,wolves/coyote_lookup
+http://www.flickr.com/photos/hatchibombotar/4475592647/,Steve and Shanon Lawson,wolves/coyote_snow
+http://www.flickr.com/photos/caninest/4394675343/,Caninest,wolves/wolf_lounge
+http://www.flickr.com/photos/dobak/119671565/,Darek Bakken,wolves/wolf_play
+http://www.flickr.com/photos/usfwsmidwest/6545954933/,USFWSmidwest,wolves/wolf_soft
+http://www.flickr.com/photos/smudge9000/457797855/,Smudge 9000,africa/lion
+http://www.flickr.com/photos/53344659@N05/4978430811/,sheilapic76,africa/girraffe
+http://www.flickr.com/photos/chacon/206677271/,Scott Chacon,africa/girraffe2
+http://www.flickr.com/photos/davedehetre/4831877261/,David DeHetre,africa/zebras
+http://www.flickr.com/photos/-wichid/4737544435/,Richard Ashurst,africa/gorilla
+http://www.flickr.com/photos/jnissa/1489030032/,Jocelyn Saurini,africa/rhino
+http://www.flickr.com/photos/wwarby/4915192281/,William Warby,africa/meer
+http://www.flickr.com/photos/wwarby/4915793804/,William Warby,africa/ostrich
+http://www.flickr.com/photos/jamespreston/4243569265/,James Preston,africa/ostrich2
+http://www.flickr.com/photos/jurvetson/6002532662/,Steve Jurvetson,africa/hyenas
+http://www.flickr.com/photos/wwarby/4915772994/,William Warby,africa/hippo
+http://www.flickr.com/photos/8363028@N08/3791299707/,DeusXFlorida,africa/antelope
+http://www.flickr.com/photos/crschmidt/2936277632/,Christopher Schmidt,africa/elephant
+http://www.flickr.com/photos/http2007/1149137981/,Thierry,africa/elephant2
+http://www.flickr.com/photos/mdpettitt/2680430499/,Martin Pettitt,africa/cheetah
+http://www.flickr.com/photos/briangratwicke/6182461448/,Brian Gratwicke,ocean/beluga
+http://www.flickr.com/photos/usfwspacific/4967557703/,U.S. Fish and Wildlife Service,ocean/sharks
+http://www.flickr.com/photos/laszlo-photo/2058115978/,Laszlo Ilyes,ocean/starfish
+http://www.flickr.com/photos/themarque/2884079538/,Mark Walz,ocean/bluestar
+http://www.flickr.com/photos/kkendall/4040685669/,K. Kendall,ocean/nautilus
+http://www.flickr.com/photos/usfwssoutheast/6215133142/,U.S. Fish and Wildlife Service Southeast,ocean/turtle
+http://www.flickr.com/photos/pldms/3016990059/,shellac,ocean/seahorse
+http://www.flickr.com/photos/pldms/3016988453/in/photostream/,shellac,ocean/jellyfish
+http://www.flickr.com/photos/arcticpuppy/2896923413/,Chris Willis,ocean/lionfish
+http://www.flickr.com/photos/robertpaulyoung/2678181928/,Robert Young,ocean/clown
+http://www.flickr.com/photos/steve_childs/2652394094/,Steve Childs,ocean/frogfish
+http://www.flickr.com/photos/steelmore/98391847/,Ste Elmore,ocean/dolphin
+http://www.flickr.com/photos/42507736@N02/5604530336/,Steve Dunleavy,ocean/mantaray
+http://www.flickr.com/photos/asw909/6029908269/,adam,ocean/tigershark
+http://www.flickr.com/photos/hershman/442017520/,Dan Hershman,ocean/brittle
